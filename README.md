@@ -44,7 +44,7 @@ pip install opencv-python numpy pyautogui
 ### Menjalankan Aplikasi
 
 ```bash
-python mouse_head2.py.py
+python mouse_head2.py
 ```
 
 ### Kontrol
