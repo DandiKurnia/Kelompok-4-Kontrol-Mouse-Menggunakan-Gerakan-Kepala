@@ -22,7 +22,7 @@ Aplikasi Python yang menggunakan computer vision untuk mengontrol kursor mouse d
 
 ```bash
 git clone https://github.com/DandiKurnia/Kelompok-4-Kontrol-Mouse-Menggunakan-Gerakan-Kepala
-cd kKelompok-4-Kontrol-Mouse-Menggunakan-Gerakan-Kepala
+cd Kelompok-4-Kontrol-Mouse-Menggunakan-Gerakan-Kepala
 ```
 
 ### 2. Install Library yang Diperlukan
